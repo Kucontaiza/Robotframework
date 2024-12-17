@@ -1,0 +1,8 @@
+baseUrl: https://futureskill.co/
+Useremail: Qwerty@gmail.com 
+Userpassword: Qwt12345!
+Username: Qwerty
+UserLastname: Ytrewq
+UserPhonenumber: 0900000000
+expected_url: https://app.futureskill.co/register
+expected_Title: FutureSkill | แพลตฟอร์มการเรียนออนไลน์สำหรับทักษะแห่งอนาคต
